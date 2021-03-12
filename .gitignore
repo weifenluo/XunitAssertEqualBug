@@ -1,0 +1,11 @@
+[Oo]bj/
+[Bb]in/
+packages/
+.vs/
+sync_src/
+[Tt]est[Rr]esults
+*.suo
+*proj.user
+*.lock.json
+/samples/CSharp/AdventureWorksLT.DbDesign/LocalDb/AdventureWorksLT.Design_log.ldf
+/samples/CSharp/AdventureWorksLT.DbDesign/LocalDb/AdventureWorksLT.Design.mdf
